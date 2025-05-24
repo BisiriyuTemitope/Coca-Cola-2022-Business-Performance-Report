@@ -64,7 +64,6 @@ Microsoft Excel: Pivot tables, Charts and Dashbaord
    
 11. State-Level Strategy
       Use targeted campaigns to boost sales in underperforming states.
-# Datasets
 
 # View my portfolio
 https://esther-portfolio-five.vercel.app/
