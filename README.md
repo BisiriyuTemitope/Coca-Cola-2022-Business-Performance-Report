@@ -17,37 +17,48 @@ Data Cleaning and Visualization: Microsoft Excel
 1.	Retailer Contribution
 	•	Walmart is the top-performing retailer with $4.0M in sales.
 	•	CVS and Costco follow but are significantly lower at $2.12M and $1.29M respectively.
+
 2.	Regional Profit Performance
 	•	West region leads with $790.5K profit.
 	•	South and Midwest lag behind.
+
 3.	Top Performing Cities
 	•	New York leads with $582.7K in sales, followed closely by California and Florida.
 	•	Omaha and Minneapolis are the lowest-performing cities.
-4.	Monthly Sales & Profit Trends
+
+5.	Monthly Sales & Profit Trends
 	•	Sales and profit peak in December, suggesting strong year-end demand.
 	•	Low performance in February and March, indicating possible seasonal slowdowns.
-5.	Beverage Brand Performance
+
+7.	Beverage Brand Performance
 	•	Coca-Cola is the best-selling brand (1.92M units) with a 39% margin.
 	•	Dasani Water and Diet Coke follow, both with solid margins (~35%+).
 	•	Sprite, Fanta, and Smart Water also contribute strongly.
-6.	Sales Volume by States
+
+9.	Sales Volume by States
 	•	California, Texas, and Florida show higher volumes.
+
 # Recommendations
 1. Optimize Delivery Times
-•	Average delivery time of 37 days is too high—evaluate logistics and shipping partners for efficiency improvements.
-2. Leverage High-Performing Retailers
-•	Expand partnerships with Walmart and CVS to push more volume and promotions.
-•	Reassess strategies for Target, which shows low contribution ($404K).
-3. Focus on High-Margin Products
-•	Promote Coca-Cola, Dasani, and Smart Water, which combine strong sales with high margins.
-•	Consider phasing out or repositioning underperforming brands.
-4. Regional & City-Level Expansion
-•	Invest in marketing in top regions (West, Southeast) and cities (New York, San Francisco).
-•	Explore why cities like Omaha and Minneapolis are underperforming – perhaps due to distribution gaps or low demand.
-5. Seasonal Planning
-•	Capitalize on December sales peak with marketing campaigns and inventory boosts.
-6. State-Level Strategy
-•	Use targeted campaigns to boost sales in underperforming states.
+      Average delivery time of 37 days is too high—evaluate logistics and shipping partners for efficiency improvements.
+   
+3. Leverage High-Performing Retailers
+      Expand partnerships with Walmart and CVS to push more volume and promotions.
+      Reassess strategies for Target, which shows low contribution ($404K).
+   
+5. Focus on High-Margin Products
+      Promote Coca-Cola, Dasani, and Smart Water, which combine strong sales with high margins.
+      Consider phasing out or repositioning underperforming brands.
+   
+7. Regional & City-Level Expansion
+      Invest in marketing in top regions (West, Southeast) and cities (New York, San Francisco).
+      Explore why cities like Omaha and Minneapolis are underperforming – perhaps due to distribution gaps or low demand.
+   
+9. Seasonal Planning
+      Capitalize on December sales peak with marketing campaigns and inventory boosts.
+   
+11. State-Level Strategy
+      Use targeted campaigns to boost sales in underperforming states.
 
 # View my portfolio
 https://esther-portfolio-five.vercel.app/
