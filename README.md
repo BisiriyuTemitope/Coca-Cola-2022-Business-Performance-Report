@@ -1,5 +1,7 @@
 # Coca-Cola-2022-Business-Performance-Report
-This analysis explores Coca-Cola’s $8.2 million in total sales and $3.04 million in earnings for 2022, focusing on brand performance, regional profitability, and retailer impact. 
+Analyzed Coca-Cola’s sales and operating profit across U.S.A retailers, regions, States, Cities using Microsoft Excel. This project delivers key business insights, data visualizations, and actionable recommendations to support business performance.
+# Overview
+This analysis explores Coca-Cola’s $8.2 million in total sales and $3.04 million in earnings for 2022, focusing on brand performance, regional profitability, and retailer impact. Top-performing beverage brands, including Coca-Cola, Dasani, and Diet Coke, contributed to over 60% of total units sold. Retailers like Walmart and CVS accounted for more than 75% of overall sales, while regional insights revealed the West as the most profitable market with $790K in profit. Monthly trends identified December as the peak sales period, guiding seasonal strategy and distribution planning.
 
 ![Coca Cola Insights](https://github.com/user-attachments/assets/74a5fa2f-741d-4b97-baf4-924a577c2171)
 
@@ -62,6 +64,7 @@ Microsoft Excel: Pivot tables, Charts and Dashbaord
    
 11. State-Level Strategy
       Use targeted campaigns to boost sales in underperforming states.
+# Datasets
 
 # View my portfolio
 https://esther-portfolio-five.vercel.app/
