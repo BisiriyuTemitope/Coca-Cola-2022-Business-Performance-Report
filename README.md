@@ -4,7 +4,7 @@ This analysis explores Coca-Cola’s $8.2 million in total sales and $3.04 milli
 ![Coca Cola Insights](https://github.com/user-attachments/assets/74a5fa2f-741d-4b97-baf4-924a577c2171)
 
 # Tool Used
-Data Cleaning and Visualization: Microsoft Excel
+Microsoft Excel: Pivot tables, Charts and Dashbaord
 
 # KPIs (Key Performance Indicators)
 •	Total Revenue: $8.2 billion
